@@ -3,7 +3,7 @@
  * The template for displaying posts in the Image post format
  *
  * @package WordPress
- * @subpackage Twenty_Twelve
+ * @subpackage Twenty_Twelve_Custom
  * @since Twenty Twelve 1.0
  */
 ?>

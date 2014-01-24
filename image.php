@@ -5,7 +5,7 @@
  * @link http://codex.wordpress.org/Template_Hierarchy
  *
  * @package WordPress
- * @subpackage Twenty_Twelve
+ * @subpackage Twenty_Twelve_Custom
  * @since Twenty Twelve 1.0
  */
 
